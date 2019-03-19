@@ -1,0 +1,32 @@
+@import "bootstrap.css";
+
+h1{
+    
+  float: left;
+    display: inline;
+}
+
+#ulone{
+   
+    float: right;
+}
+li:hover{
+    background-color: #ccc;
+}
+body{
+    
+ 
+}
+img{
+    
+   margin-left: auto;
+   margin-right: auto;
+    display: block;
+    width: 100%;
+   
+    
+}
+h2:hover{
+    background-color: #ccc;
+    
+}
